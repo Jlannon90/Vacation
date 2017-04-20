@@ -1,0 +1,31 @@
+img {
+  max-width: 200px;
+  max-height: auto;
+  margin-left: 50px;
+}
+
+h1 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 40px;
+}
+
+.jumbotron p {
+  text-align: center;
+  font-family: monospace;
+  font-family: 'Asar', serif;
+  font-family: 'Libre Baskerville', serif;
+  font-family: 'Lobster', cursive;
+
+}
+
+.jumbotron h1 {
+  font-weight: bolder;
+  font-family: 'Asar', serif;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.jumbotron {
+  background-color: #230f57;
+  color: #febd27;
+}
